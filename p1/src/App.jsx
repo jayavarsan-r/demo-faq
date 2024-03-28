@@ -9,22 +9,22 @@ function App() {
   const [faqs, setfaqs] = useState([
     {
       question: 'How will I get the link to join the webinar ?',
-      answer: 'Answer here',
+      answer: 'You can the webinar using the link sent via email or WhatsApp after registration',
       open: true
     },
     {
       question: 'I have zero knowledge about trading. Can I join ?',
-      answer: 'Answer',
+      answer: 'Yes, all levels of experience are welcome to join the webinar.',
       open: false
     },
     {
       question: 'Can I ask my questions during the live sessions ?',
-      answer: 'answer.',
+      answer: 'Absolutely, feel free to engage actively by asking your questions during our live sessions! ',
       open: false
     },
     {
       question: 'In which language will the webinar be conducted ?',
-      answer: 'answer.',
+      answer: 'The webinar will be conducted in both English and Tamil languages.',
       open: false
     }
   ]);
